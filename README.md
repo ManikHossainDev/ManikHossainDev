@@ -95,7 +95,7 @@
  This is repo start dasbord 
 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; ">
   <img 
        src="https://github-readme-stats.vercel.app/api?username=ManikHossainDev&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" 
        alt="devManik" 
@@ -106,6 +106,8 @@
        alt="devManik" 
        style="width: 48%;"
   />
+</div>
+
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
 
 
