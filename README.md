@@ -10,30 +10,12 @@
 
 </br>
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-
-  <!-- Left Section: Text -->
-  <div style="flex: 1; min-width: 300px;">
-    <ul>
-      <li>🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎</li>
-      <li>🌱 Trying to become an expert in Fullstack development ❤</li>
-      <li>💻 I love exploring new tech stacks and building cool stuff.</li>
-      <li>📰 Reading tech documentation whenever possible.</li>
-      <li>🎯 2025 Goals: DevOps, AWS, Blockchain</li>
-      <li>⚡ Fun Fact: I want to learn everything 🤣</li>
-    </ul>
-  </div>
-
-  <!-- Right Section: Image -->
-  <div style="flex: 1; min-width: 200px; text-align: center;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=ManikHossainDev&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" 
-      alt="devManik Stats" 
-      style="max-width: 100%; height: auto; border-radius: 8px;"
-    />
-  </div>
-
-</div>
+- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
+- 🌱 Trying to become an expert in Fullstack development ❤
+- 💻 I love exploring new tech stacks and building cool stuff.
+- 📰 Reading tech documentation whenever possible.
+- 🎯 2025 Goals: DevOps, AWS, Blockchain
+- ⚡ Fun Fact: I want to learn everything 🤣
 
 <a href="https://github.com/ManikHossainDev" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ManikHossainDev?label=Github&style=flat">
@@ -118,7 +100,7 @@
     align="center" 
     src="https://github-readme-stats.vercel.app/api?username=ManikHossainDev&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" 
     alt="devManik" 
-    style="width: 48%; height:150px;"
+    style="width: 50%; height:150px;"
   />
   <img 
     align="center" 
