@@ -100,13 +100,13 @@
     align="center" 
     src="https://github-readme-stats.vercel.app/api?username=ManikHossainDev&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" 
     alt="devManik" 
-    style="width: 45%; height:190px;"
+    style="width: 48%; height:190px;"
   />
   <img 
     align="center" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ManikHossainDev&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" 
     alt="devManik" 
-    style="width: 45%; height: 190px;"
+    style="width: 48%; height: 190px;"
   />
 </div>
 
