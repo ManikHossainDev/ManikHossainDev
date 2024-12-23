@@ -95,10 +95,20 @@
  This is repo start dasbord 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManikHossainDev&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devManik" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManikHossainDev&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="devManik" />
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=ManikHossainDev&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" 
+    alt="devManik" 
+    style="width: 50%; height: auto;"
+  />
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ManikHossainDev&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" 
+    alt="devManik" 
+    style="width: 50%; height: auto;"
+  />
+</div>
 
 
 
