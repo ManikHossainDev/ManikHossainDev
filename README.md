@@ -100,7 +100,7 @@
     align="center" 
     src="https://github-readme-stats.vercel.app/api?username=ManikHossainDev&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" 
     alt="devManik" 
-    style="width: 45%; height: auto;"
+    style="width: 45%; height: 50vh;"
   />
   <img 
     align="center" 
