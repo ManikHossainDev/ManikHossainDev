@@ -106,7 +106,7 @@
     align="center" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ManikHossainDev&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" 
     alt="devManik" 
-    style="width: 48%; height: 150px;"
+    style="width: 50%; height: 150px;"
   />
 </div>
 
