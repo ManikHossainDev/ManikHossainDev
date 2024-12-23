@@ -25,7 +25,7 @@
   </div>
 
   <!-- Right Section: Image -->
-  <div style="flex: 1; min-width: 300px; text-align: center;">
+  <div style="flex: 1; min-width: 200px; text-align: center;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=ManikHossainDev&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" 
       alt="devManik Stats" 
