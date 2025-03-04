@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+Is+Md+Manik+Hossain;Nice+to+meet+you!&center=true&size=30">
   </a>
-    <img src="https://media.licdn.com/dms/image/v2/D5616AQGFsayJmXyjcA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729924334539?e=1740614400&v=beta&t=0PdVJR8Kg_osxlwpoSMl0I1VFZHd484JIkmB4if5G6w">
+    <img src="https://i.ibb.co.com/twmhwzWb/1729924334539.jpg">
   </a>
 </h1>
 
