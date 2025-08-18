@@ -89,7 +89,7 @@
  This is repo start dasbord 
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+
   <img 
     align="center" 
     src="https://github-readme-stats.vercel.app/api?username=ManikHossainDev&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" 
@@ -102,7 +102,7 @@
     alt="devManik" 
     style="width: 48%; height: 150px;"
   />
-</div>
+
 
 
 
