@@ -10,12 +10,11 @@
 
 </br>
 
-##- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
+
 - 🌱 Trying to become an expert in Fullstack development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
 - 🎯 2025 Goals: DevOps, AWS, Blockchain
-- ⚡ Fun Fact: I want to learn everything 🤣
 
 <a href="https://github.com/ManikHossainDev" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ManikHossainDev?label=Github&style=flat">
