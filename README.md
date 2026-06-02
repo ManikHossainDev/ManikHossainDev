@@ -6,18 +6,19 @@
   </a>
 </h1>
 
-## I am a Typescript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-</br>
-
-
-
-<a href="https://github.com/ManikHossainDev" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ManikHossainDev?label=Github&style=flat">
-  </a>
-  <a href="https://github.com/ManikHossainDev" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=ManikHossainDev&label=Profile%20views&color=0e75b6&style=flat" alt="ManikHossainDev" />
-  </a> 
+<div align="center">
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h2>I am a Typescript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+    </td>
+    <td align="right">
+      <a href="https://github.com/ManikHossainDev"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ManikHossainDev?label=Github&style=flat"></a>
+      <a href="https://github.com/ManikHossainDev"><img src="https://komarev.com/ghpvc/?username=ManikHossainDev&label=Profile%20views&color=0e75b6&style=flat" alt="ManikHossainDev"/></a>
+    </td>
+  </tr>
+</table>
+</div>
   
 <!--
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
