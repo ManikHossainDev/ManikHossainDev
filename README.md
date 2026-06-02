@@ -76,33 +76,3 @@
 <br />
 
 
-
-
-
-
-
-
-## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Languages and Tools:
-
-
-
- This is repo start dasbord 
-
-
-
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=ManikHossainDev&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" 
-    alt="devManik" 
-    style="width: 50%; height:150px;"
-  />
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ManikHossainDev&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" 
-    alt="devManik" 
-    style="width: 48%; height: 150px;"
-  />
-
-
-
-
